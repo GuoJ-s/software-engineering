@@ -1,0 +1,28 @@
+Communtiy User : {
+					"resident": [
+									{
+										"id": 01,
+										"name": "xxx",
+										"contact-information": 15983074055,
+										"address": "xx-xx-xx",
+										"service-type": {
+															"service-name": "xxx",
+															"request-time": "xxxx-xx-xx",
+															"service-person-name":"xxxx",
+															"service-price": "xxx/h",
+															"estimated-time": "xxxx-xx-xx"
+														}
+									}
+								]
+
+					"service-person":   [
+											{
+												"id": "ss0001",
+												"name": "xxx",
+												"contact-information": 159830745214,
+												"position": "xxxx",
+												"photo": "xxx.jpg",
+												"praise-rate": "xx%"
+											}
+										]
+}
